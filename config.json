@@ -1,0 +1,6 @@
+{
+  "interstitials_enabled": true,
+  "rewarded_hint_enabled": true,
+  "review_prompt_enabled": true,
+  "min_interstitial_interval_s": 180.0
+}
